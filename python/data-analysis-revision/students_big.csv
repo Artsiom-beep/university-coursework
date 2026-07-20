@@ -1,0 +1,102 @@
+id,name,age,city,course,study_hours,attendance_percent,assignment_score,exam_score,final_grade,passed
+1,Maria,18,Poznan,Databases,9,63,87,48,65.1,Yes
+2,Ewa,19,Rzeszow,Statistics,3,56,45,62,54.6,No
+3,Julia,26,Rzeszow,Python,19,67,85,88,84.7,Yes
+4,Julia,25,Rzeszow,Web Development,2,65,84,89,84.6,Yes
+5,Alex,22,Gdansk,Databases,12,61,45,83,65.6,Yes
+6,Maria,23,Lublin,Web Development,3,84,74,50,63.0,Yes
+7,Nikita,19,Bialystok,Web Development,13,91,52,43,51.4,No
+8,Anna,21,Poznan,Data Analysis,9,61,64,70,66.7,Yes
+9,Pavel,23,Gdansk,Algorithms,13,68,82,69,74.1,Yes
+10,Maksim,20,Bialystok,Databases,7,84,64,69,68.5,Yes
+11,Ewa,21,Lublin,Python,9,57,91,75,79.6,Yes
+12,Nikita,22,Krakow,Databases,20,100,60,62,65.0,Yes
+13,Karolina,24,Katowice,Machine Learning,10,63,55,68,62.3,Yes
+14,Tomasz,24,Rzeszow,Statistics,13,69,48,100,76.1,Yes
+15,Karolina,19,Warsaw,Data Analysis,6,95,50,89,74.0,Yes
+16,Victoria,19,Lodz,Statistics,16,88,56,36,49.2,No
+17,Maria,26,Poznan,Algorithms,5,73,67,55,61.6,Yes
+18,Pavel,18,Poznan,Machine Learning,18,61,95,73,80.6,Yes
+19,Mateusz,21,Gdansk,Algorithms,7,89,89,35,62.0,Yes
+20,Victoria,23,Katowice,Python,5,78,96,74,83.2,Yes
+21,Julia,18,Wroclaw,Data Analysis,4,86,92,43,66.9,Yes
+22,Ewa,20,Gdansk,Excel,19,65,56,89,73.4,Yes
+23,Piotr,26,Wroclaw,Web Development,14,97,81,82,83.1,Yes
+24,Pavel,26,Katowice,Data Analysis,9,69,44,78,63.5,Yes
+25,Artsiom,26,Wroclaw,Databases,2,59,85,42,60.9,Yes
+26,Julia,19,Warsaw,Algorithms,4,87,55,70,65.7,Yes
+27,Karolina,21,Bialystok,Machine Learning,20,91,70,66,70.1,Yes
+28,Karolina,24,Wroclaw,Data Analysis,5,97,67,80,76.5,Yes
+29,Natalia,24,Katowice,Python,5,58,65,78,70.8,Yes
+30,Maria,21,Wroclaw,Databases,19,83,48,89,72.0,Yes
+31,Katarzyna,22,Katowice,Databases,4,83,91,47,68.2,Yes
+32,Anna,26,Warsaw,Data Analysis,9,65,66,97,81.4,Yes
+33,Karolina,21,Lodz,Python,7,79,40,84,65.9,Yes
+34,Dmitry,25,Poznan,Statistics,19,97,85,97,92.2,Yes
+35,Ivan,21,Poznan,Databases,3,92,87,42,65.0,Yes
+36,Alex,18,Warsaw,Excel,18,88,50,42,49.8,No
+37,Mateusz,19,Gdansk,Data Analysis,4,98,95,65,80.3,Yes
+38,Nikita,19,Rzeszow,Databases,20,93,42,45,48.6,No
+39,Natalia,26,Lublin,Web Development,8,97,85,75,81.2,Yes
+40,Julia,22,Lodz,Machine Learning,11,84,60,44,54.4,No
+41,Artsiom,25,Rzeszow,Data Analysis,4,89,53,99,79.6,Yes
+42,Dmitry,20,Lublin,Data Analysis,9,78,58,55,58.5,No
+43,Pavel,26,Poznan,Python,19,74,99,48,71.0,Yes
+44,Ivan,22,Krakow,Data Analysis,19,64,57,71,64.7,Yes
+45,Victoria,21,Lublin,Databases,10,87,71,67,70.6,Yes
+46,Anna,19,Lodz,Web Development,3,55,61,51,55.4,No
+47,Dmitry,20,Katowice,Statistics,19,55,47,44,46.3,No
+48,Ivan,26,Warsaw,Algorithms,20,90,49,90,73.6,Yes
+49,Ivan,18,Poznan,Algorithms,3,77,53,66,61.9,Yes
+50,Maria,23,Bialystok,Statistics,6,70,95,55,72.5,Yes
+51,Katarzyna,24,Warsaw,Machine Learning,12,81,91,66,77.5,Yes
+52,Dmitry,20,Krakow,Statistics,3,85,54,60,60.1,Yes
+53,Pavel,23,Poznan,Databases,9,56,82,59,67.9,Yes
+54,Nikita,23,Poznan,Data Analysis,10,77,81,100,90.1,Yes
+55,Nikita,26,Lublin,Python,5,71,51,68,61.5,Yes
+56,Anna,19,Rzeszow,Statistics,13,75,67,100,84.3,Yes
+57,Maria,24,Rzeszow,Databases,10,57,85,90,84.7,Yes
+58,Artsiom,26,Bialystok,Databases,13,82,44,77,64.3,Yes
+59,Victoria,23,Krakow,Web Development,18,74,82,87,83.7,Yes
+60,Alex,24,Poznan,Machine Learning,8,81,82,83,82.4,Yes
+61,Katarzyna,22,Lodz,Python,11,73,53,90,73.5,Yes
+62,Tomasz,23,Katowice,Excel,16,98,53,100,81.0,Yes
+63,Karolina,20,Krakow,Web Development,18,97,80,77,80.2,Yes
+64,Maksim,21,Poznan,Databases,8,64,41,40,42.8,No
+65,Julia,25,Rzeszow,Data Analysis,16,81,96,59,76.0,Yes
+66,Nikita,25,Lodz,Databases,6,96,84,35,60.7,Yes
+67,Maria,24,Wroclaw,Machine Learning,18,84,43,66,58.6,No
+68,Maria,25,Gdansk,Excel,18,90,78,75,77.7,Yes
+69,Pavel,26,Lodz,Excel,7,85,68,68,69.7,Yes
+70,Julia,22,Bialystok,Excel,9,72,68,44,56.4,No
+71,Olga,21,Poznan,Algorithms,12,89,45,52,52.9,No
+72,Ivan,21,Lodz,Machine Learning,8,59,66,87,75.8,Yes
+73,Alex,26,Katowice,Statistics,3,68,93,88,88.0,Yes
+74,Nikita,18,Rzeszow,Statistics,17,55,100,80,85.5,Yes
+75,Olga,24,Lodz,Databases,17,69,57,90,74.7,Yes
+76,Karolina,18,Lodz,Algorithms,14,65,93,94,90.7,Yes
+77,Ivan,26,Warsaw,Statistics,20,91,82,38,60.9,Yes
+78,Maksim,24,Gdansk,Excel,7,58,56,83,69.7,Yes
+79,Alex,21,Katowice,Algorithms,12,79,57,88,74.7,Yes
+80,Dmitry,19,Katowice,Python,19,58,100,79,85.3,Yes
+81,Julia,19,Warsaw,Python,9,67,93,37,62.4,Yes
+82,Victoria,20,Wroclaw,Machine Learning,17,97,47,62,59.5,No
+83,Pavel,22,Lublin,Machine Learning,5,65,59,48,54.1,No
+84,Tomasz,18,Poznan,Statistics,14,100,52,44,52.8,No
+85,Tomasz,21,Krakow,Web Development,5,91,90,40,65.1,Yes
+86,Sofia,26,Lodz,Algorithms,4,87,81,78,80.1,Yes
+87,Artsiom,24,Katowice,Data Analysis,15,78,80,93,86.3,Yes
+88,Ivan,24,Gdansk,Web Development,19,85,69,90,81.1,Yes
+89,Tomasz,22,Lublin,Databases,4,72,96,92,91.6,Yes
+90,Julia,25,Rzeszow,Statistics,12,56,71,76,72.0,Yes
+91,Katarzyna,25,Wroclaw,Algorithms,10,76,57,70,65.4,Yes
+92,Ewa,18,Bialystok,Databases,4,70,86,87,84.9,Yes
+93,Karolina,26,Wroclaw,Excel,17,83,90,37,62.8,Yes
+94,Maksim,22,Wroclaw,Statistics,9,74,82,82,81.2,Yes
+95,Karolina,26,Bialystok,Algorithms,15,90,61,80,73.4,Yes
+96,Pavel,22,Poznan,Web Development,9,62,86,59,70.1,Yes
+97,Alex,19,Bialystok,Machine Learning,8,68,87,96,89.6,Yes
+98,Dmitry,26,Rzeszow,Web Development,5,67,58,64,61.9,Yes
+99,Sofia,20,Poznan,Python,19,63,57,40,49.1,No
+100,Anna,26,Poznan,Machine Learning,17,61,95,36,62.1,Yes
+101,Artsiom,26,Warsaw,Data Analysis,2,59,85,42,100,Yes
