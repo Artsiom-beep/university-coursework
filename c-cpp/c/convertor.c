@@ -4,7 +4,7 @@
 
 int a[1000][1000], b[10000], c[10000], nb, nc, x[10000], y[10000], m, d[10000], nd;
 
-Convert(char s[100000]){
+void Convert(char s[100000]){
     int xx = 0; nb = 0;
     for (int i = 0; i < strlen(s); i++)
         if ('0' <= s[i] && s[i] <= '9')
@@ -20,13 +20,17 @@ Convert(char s[100000]){
 
 int main(){
     FILE *fin = fopen("graf.csrrg", "rt");
+    if (fin == NULL) {
+        perror("graf.csrrg");
+        return 1;
+    }
     int n;
     fscanf(fin, "%d", &n);
     char s1[100000], s2[100000], s3[100000], s4[100000];
-    fscanf(fin, "%s", &s1);
-    fscanf(fin, "%s", &s2);
-    fscanf(fin, "%s", &s3);
-    fscanf(fin, "%s", &s4);
+    fscanf(fin, "%99999s", s1);
+    fscanf(fin, "%99999s", s2);
+    fscanf(fin, "%99999s", s3);
+    fscanf(fin, "%99999s", s4);
     fclose(fin);
     Convert(s2);
     for (int i = nb - 1; i > 0; i--)

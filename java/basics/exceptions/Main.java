@@ -18,7 +18,7 @@ public class Main {
         a = summa.getAns();
         System.out.println("Answer is: " + a);
 
-        Dev1idedbyTwo fork = new DevidedbyTwo();
+        DevidedbyTwo fork = new DevidedbyTwo();
         fork.sayHelloWorld();
 
     }
